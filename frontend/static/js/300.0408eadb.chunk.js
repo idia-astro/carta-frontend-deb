@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkcarta_frontend=globalThis.webpackChunkcarta_frontend||[]).push([[300],{34300:(a,n,r)=>{r.r(n),r.d(n,{default:()=>c});var e=r(68963),t=r(75859);const c=a=>(0,t.jsx)(e.Fragment,{children:a.children})}}]);
