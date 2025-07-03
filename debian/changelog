@@ -1,3 +1,11 @@
+carta-frontend (5.0.1-1~noble1) noble; urgency=medium
+
+  * Bumped version to 5.0.1.
+  * Fixed
+    - Fixed an issue where the dynamic layout incorrectly requested file information for folders (#2557). 
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 03 Jul 2025 11:25:21 +0200
+
 carta-frontend (5.0.0-1~noble1) noble; urgency=medium
 
   * Bumped version to 5.0.0.
