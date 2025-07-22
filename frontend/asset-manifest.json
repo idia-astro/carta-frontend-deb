@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.4f08d1bb.css",
-    "main.js": "./static/js/main.1abafae7.js",
+    "main.css": "./static/css/main.b425d7cd.css",
+    "main.js": "./static/js/main.647e9786.js",
     "blueprint-icons-all-paths-loader.js": "./static/js/blueprint-icons-all-paths-loader.63690339.chunk.js",
     "blueprint-icons-split-paths-by-size-loader.js": "./static/js/blueprint-icons-split-paths-by-size-loader.802c3795.chunk.js",
     "static/css/20.2e97cf1c.chunk.css": "./static/css/20.2e97cf1c.chunk.css",
@@ -33,7 +33,7 @@
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.4f08d1bb.css",
-    "static/js/main.1abafae7.js"
+    "static/css/main.b425d7cd.css",
+    "static/js/main.647e9786.js"
   ]
 }

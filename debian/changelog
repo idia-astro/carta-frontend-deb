@@ -1,3 +1,13 @@
+carta-frontend (5.0.2-1~noble1) noble; urgency=medium
+
+  * Bumped version to 5.0.2.
+  * Fixed
+    - Fixed invalid values in preferences.json cause all preferences to be reset (#2561).
+  * Added
+    - Added support for scrolling in the spectral profile dropdown menus (#2566).
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Tue, 22 Jul 2025 16:34:16 +0200
+
 carta-frontend (5.0.1-1~noble1) noble; urgency=medium
 
   * Bumped version to 5.0.1.
