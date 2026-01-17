@@ -1,3 +1,14 @@
+carta-frontend (5.1.0-1~noble1) noble; urgency=medium
+
+  * Bumped version to 5.1.0.
+  * Fixed
+    - Fixed VizieR database query (#2480).
+    - Fixed a screen freeze issue that occurred when resuming a disconnected session with unfinished tasks showing a progress bar (#2082).
+    - Fixed incorrect angular sizes for catalog sources when size data was missing or zero (#2609).
+    - Fixed missing data in the newly enabled catalog columns (#2611).
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Sat, 17 Jan 2026 22:14:49 +0200
+
 carta-frontend (5.0.3-1~noble1) noble; urgency=medium
 
   * Bumped version to 5.0.3.
