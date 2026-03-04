@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcarta_frontend=globalThis.webpackChunkcarta_frontend||[]).push([["462"],{96637(){}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcarta_frontend=globalThis.webpackChunkcarta_frontend||[]).push([["761"],{39946(a,e,t){t.r(e),t.d(e,{allPathsLoader:()=>l});let l=async(a,e)=>{let{getIconPaths:l}=await Promise.all([t.e("180"),t.e("353"),t.e("173")]).then(t.bind(t,39803));return l(a,e)}}}]);
