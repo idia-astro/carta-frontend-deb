@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcarta_frontend=globalThis.webpackChunkcarta_frontend||[]).push([["268"],{30999(a,t,e){e.r(t),e.d(t,{splitPathsBySizeLoader:()=>i});var n=e(43261),r=e(6134);let i=async(a,t)=>{let i=(0,n.fL)(a);return(t===r.l.STANDARD?await e.e("353").then(e.bind(e,87621)):await e.e("180").then(e.bind(e,85989)))[i]}}}]);

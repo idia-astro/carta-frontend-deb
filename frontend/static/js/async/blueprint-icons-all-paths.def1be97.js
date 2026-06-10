@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcarta_frontend=globalThis.webpackChunkcarta_frontend||[]).push([["173"],{39803(t,a,n){n.d(a,{getIconPaths:()=>l});var e=n(43261),r=n(87621),c=n(85989),h=n(6134);function l(t,a){let n=(0,e.fL)(t);return a===h.l.STANDARD?r[n]:c[n]}}}]);
